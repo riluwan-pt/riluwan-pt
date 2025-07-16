@@ -62,6 +62,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
 </div>
 
+</td><td valign="top" width="25%">
 
 ### Tools & Controll versions
 <div><td valign="top" width="25%"
