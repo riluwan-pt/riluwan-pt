@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="600px">
+<table><tr><td valign="top" width="800px">
 
 <table width="100%">
   <tr>
