@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="1000px">
+<table><tr><td valign="top" width="100%">
 
 <table width="100%" align="center">
   <tr>
@@ -68,22 +68,14 @@
     </td>
     
 <td valign="top" width="25%">
-  <h3 align="center">Tools & Version Control</h3>
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://github.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-    </a>
-    <a href="https://swagger.io/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" height="50" />
-    </a>
-    <a href="https://postman.com" target="_blank">
-      <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
-    </a>
-  </div>
-</td>
+      <h3 align="center">Tools & Version Control</h3>
+      <div align="center">
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+        <a href="https://swagger.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" height="50" /></a>
+        <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
+      </div>
+    </td>
   </tr>
 </table>  
 
