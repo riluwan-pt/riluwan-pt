@@ -27,7 +27,7 @@
 <table width="100%">
   <tr>
     <!-- Frontend -->
-    <td valign="top" width="20%">
+    <td valign="top" width="25%">
       <h3 align="center">Frontend</h3>
       <div align="center">
         <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
@@ -44,7 +44,7 @@
 
 
 
-<td valign="top" width="20%">
+<td valign="top" width="25%">
       <h3 align="center">Backend</h3>
       <div align="center">
         <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
@@ -55,7 +55,7 @@
       </div>
     </td>
     
-<td valign="top" width="20%">
+<td valign="top" width="25%">
       <h3 align="center">Database</h3>
       <div align="center">
         <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
@@ -63,13 +63,13 @@
       </div>
     </td>
     
-<td valign="top" width="20%">
+<td valign="top" width="25%">
       <h3 align="center">DevOps</h3>
       <div align="center">
         <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
       </div>
     </td>
-    <td valign="top" width="20%">
+    <td valign="top" width="25%">
       <h3 align="center">Tools & Version Control</h3>
       <div align="center">
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
