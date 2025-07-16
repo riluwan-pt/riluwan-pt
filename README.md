@@ -73,10 +73,6 @@
 
 <br/>  
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/irfanali777?theme=dark&font=Milonga&ext=heatmap" alt="LeetCode Stats">
-</div>
-
 
 ## Connect with me  
 <div align="center">
