@@ -21,7 +21,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="1000px">
 
-<table width="100%" align="center">
+<table width="125%" align="center">
   <tr>
     <!-- Frontend -->
     <td valign="top" width="25%">
