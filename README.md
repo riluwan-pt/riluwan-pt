@@ -60,12 +60,6 @@
         <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
       </div>
     </td>
-<td valign="top" width="25%">
-      <h3 align="center">DevOps</h3>
-      <div align="center">
-        <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-      </div>
-    </td>
     
 <td valign="top" width="25%">
       <h3 align="center">Tools & Version Control</h3>
