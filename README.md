@@ -4,7 +4,7 @@
 
   
 
- <div align="center"><h3 align="center">A passionate MERN developer from India👨‍💻</h3></div>  
+ <div align="center"><h3 align="center">Full-Stack JavaScript Developer👨‍💻</h3></div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riluwan-pt&label=Profile%20views&color=0e75b6&style=flat" alt="riluwan-pt" /> </p>
 
 - 🌱 I’m currently learning Nest.js   
