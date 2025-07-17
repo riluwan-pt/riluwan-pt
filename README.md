@@ -6,6 +6,7 @@
 
  <div align="center"><h3 align="center">A passionate MERN developer from India👨‍💻</h3></div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riluwan-pt&label=Profile%20views&color=0e75b6&style=flat" alt="riluwan-pt" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riluwan-pt&" alt="riluwan-pt" /></p>
 
 - 🌱 I’m currently learning Nest.js   
   
