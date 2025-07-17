@@ -20,7 +20,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 🛠️ Skills & Technologies 
 <table><tr><td valign="top" width="1000px">
 
 <table width="125%" align="center">
