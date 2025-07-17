@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Riluwan</h1>
 
@@ -18,6 +18,26 @@
   
 
 <br/>  
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <ul style="list-style-type: disc; font-size: 16px; font-weight: 600; line-height: 2; margin: 0; padding-left: 20px;">
+        <li>Full Stack Developer with hands-on experience in both frontend and backend technologies</li>
+        <li>Passionate about building scalable, efficient, and user-focused web applications</li>
+        <li>Enjoy solving complex problems and optimizing systems for performance and reliability</li>
+        <li>Always exploring new tools and technologies to stay ahead in modern development</li>
+        <li>Love creating practical, real-world solutions that make an impact</li>
+      </ul>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif" width="300" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ## 🛠️ Skills & Technologies 
