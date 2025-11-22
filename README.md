@@ -24,10 +24,13 @@
 
 
 ## 🛠️ Skills & Technologies 
- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mongodb,react,bootstrap,tailwind" />
+</p>
+
 
 <br/>  
-
 
   
 <div align="center">
